@@ -10,7 +10,7 @@
   NOTE_ID_COUNT ++;
   }
 
-  function displayNote (){
+  function displayNote() {
     return this.text;
   }
 
